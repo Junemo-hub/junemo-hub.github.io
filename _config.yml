@@ -257,6 +257,7 @@ pagination:
     after: 2
 
 
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -325,3 +326,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+# 추가해 봤음
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+

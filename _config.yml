@@ -21,10 +21,10 @@ title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Junemo Moon"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Data Science Projects in ESG, Finance, and Analytics"
+url                      : "https://junemo-hub.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Junemo-hub/junemo-hub.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -107,7 +107,7 @@ social:
 analytics:
   provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-EGR720G14H
     anonymize_ip         : # true, false (default)
 
 
@@ -264,6 +264,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
 whitelist:

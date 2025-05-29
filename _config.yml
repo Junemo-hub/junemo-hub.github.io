@@ -81,6 +81,16 @@ algolia:
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
+  
+  # Navigation
+nav:
+  - title: "Home"
+    url: /
+  - title: "Blog"
+    url: /blog/
+  - title: "GitHub"
+    url: https://github.com/Junemo-hub
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :

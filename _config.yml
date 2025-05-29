@@ -94,7 +94,7 @@ nav:
 # Top menu links
 header_pages:
   - index.md
-  - _pages/blog.md
+  - blog.md
 
 
 # SEO Related

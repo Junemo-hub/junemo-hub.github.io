@@ -91,6 +91,12 @@ nav:
   - title: "GitHub"
     url: https://github.com/Junemo-hub
 
+# Top menu links
+header_pages:
+  - index.md
+  - _pages/blog.md
+
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :

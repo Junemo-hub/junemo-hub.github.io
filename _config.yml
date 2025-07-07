@@ -351,3 +351,5 @@ collections:
   pages:
     output: true
     permalink: /:path/
+
+google_analytics: G-EGR720G14H  # 너의 GA4 ID로 바꾸기
